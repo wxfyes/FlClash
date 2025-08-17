@@ -429,6 +429,7 @@ enum PageLabel {
   dashboard,
   proxies,
   profiles,
+  tianque,
   tools,
   logs,
   requests,
