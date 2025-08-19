@@ -1,3 +1,7 @@
+## v0.8.88
+
+- 优化细节
+
 ## v0.8.87
 
 - Optimize desktop view
