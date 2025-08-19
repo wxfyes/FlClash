@@ -52,7 +52,7 @@ class AboutView extends StatelessWidget {
           title: const Text('Telegram'),
           onTap: () {
             globalState.openUrl(
-              'https://t.me/FlClash',
+              'https://t.me/jpxljsq',
             );
           },
           trailing: const Icon(Icons.launch),
@@ -61,7 +61,7 @@ class AboutView extends StatelessWidget {
           title: Text(appLocalizations.project),
           onTap: () {
             globalState.openUrl(
-              'https://github.com/$repository',
+              'https://github.com/wxfyes/FlClash',
             );
           },
           trailing: const Icon(Icons.launch),
